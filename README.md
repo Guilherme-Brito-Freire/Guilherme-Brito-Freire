@@ -8,17 +8,15 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[Seu Projeto/Empresa]**
-- 🌱 Aprendendo cada vez mais sobre **[Tecnologias que estuda]**
-- 👯 Buscando colaborar em **projetos open source ou em equipe**
-- 💬 Pergunte-me sobre **[Tecnologias que domina]**
-- 📫 Como me encontrar: **[Seu Email]**
+- 🔭 Atualmente trabalhando com Rust
+- 🌱 Aprendendo cada vez mais sobre Desenvolvimento Web e backend
+- 📫 Como me encontrar: guilhermebritofreire@gmail.com
 
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <!-- Você pode alterar as linguagens abaixo mudando as siglas (ex: js, ts, react, python) -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,git,docker,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,linux,java,spring,c&perline=10" />
 </div>
 
 ## 📊 Estatísticas do GitHub
@@ -42,7 +40,7 @@
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:guilhermebritofreire@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
