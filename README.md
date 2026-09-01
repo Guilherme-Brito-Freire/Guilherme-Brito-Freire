@@ -22,15 +22,6 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Guilherme-Brito-Freire">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Brito-Freire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Brito-Freire&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Brito-Freire&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
