@@ -28,7 +28,7 @@
 ## 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/guilherme-brito-freire-070135320" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:guilhermebritofreire@gmail.com">
